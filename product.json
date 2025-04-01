@@ -426,9 +426,10 @@
     "Ram": "4GB",
     "Rom": "64GB",
     "Cpu": "Snapdragon 845",
-    "PriceFor5": 6700000,
-    "PriceFor10": 11800000,
-    "PriceFor15": 16900000,
-    "PriceFor20": 22000000
-},
+    "PriceFor5": 4900000,
+    "PriceFor10": 8300000,
+    "PriceFor15": 11700000,
+    "PriceFor20": 15000000
+}
+
     ]
