@@ -1,0 +1,122 @@
+    [
+        {
+            "ID": 1,
+            "Title": "Box Phone Farm Note 5",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note5.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7880",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 2,
+            "Title": "Box Phone Farm A5",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a5.png",
+            "Ram": "3GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7880",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 3,
+            "Title": "Box Phone Farm A6",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a6.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7870",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 4,
+            "Title": "Box Phone Farm A6+",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a6+.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Snapdragon 450",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 5,
+            "Title": "Box Phone Farm A7",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a7.png",
+            "Ram": "3GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7880",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 6,
+            "Title": "Box Phone Farm A8",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a8.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7885",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 7,
+            "Title": "Box Phone Farm A8+",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a8+.png",
+            "Ram": "6GB",
+            "Rom": "64GB",
+            "Cpu": "Exynos 7885",
+            "PriceFor5": 3300000,
+            "PriceFor10": 5000000,
+            "PriceFor15": 6800000,
+            "PriceFor20": 8500000
+        },
+        {
+            "ID": 8,
+            "Title": "Box Phone Farm J6",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-j6.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7870",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 9,
+            "Title": "Box Phone Farm J7+",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-j7%20plus.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Media Tek Helio P25 Lite",
+            "PriceFor5": 3000000,
+            "PriceFor10": 4500000,
+            "PriceFor15": 6000000,
+            "PriceFor20": 7500000
+        },
+        {
+            "ID": 10,
+            "Title": "Box Phone Farm J7 Pro",
+            "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-j7pro.png",
+            "Ram": "4GB",
+            "Rom": "32GB",
+            "Cpu": "Exynos 7870",
+            "PriceFor5": 3300000,
+            "PriceFor10": 5000000,
+            "PriceFor15": 6800000,
+            "PriceFor20": 8500000
+        }
+    ]
