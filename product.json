@@ -245,7 +245,11 @@
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s10.png",
     "Ram": "8GB",
     "Rom": "256GB",
-    "Cpu": "Exynos 9820"
+    "Cpu": "Exynos 9820",
+    "PriceFor5 ":7200000,
+    "PriceFor10": 12800000,
+    "PriceFor15": 18400000,
+    "PriceFor20": 24000000
 },
 {
     "ID": 22,
