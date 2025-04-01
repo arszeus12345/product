@@ -180,6 +180,18 @@
     "PriceFor20": 11000000
 },
 {
+    "ID": 36,
+    "Title": "Box Phone Farm S9(U)",
+    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s9.png",
+    "Ram": "4GB",
+    "Rom": "64GB",
+    "Cpu": "Snapdragon 845",
+    "PriceFor5": 4900000,
+    "PriceFor10": 8300000,
+    "PriceFor15": 11700000,
+    "PriceFor20": 15000000
+},
+{
     "ID": 16,
     "Title": "Box Phone Farm S9",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s9.png",
@@ -431,5 +443,4 @@
     "PriceFor15": 11700000,
     "PriceFor20": 15000000
 }
-
     ]
