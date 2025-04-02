@@ -37,7 +37,7 @@
 },
 {
     "ID": 4,
-    "Title": "Box Phone Farm A6+",
+    "Title": "Box Phone Farm A6 Plus",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a6+.png",
     "Ram": "4GB",
     "Rom": "32GB",
@@ -73,7 +73,7 @@
 },
 {
     "ID": 7,
-    "Title": "Box Phone Farm A8+",
+    "Title": "Box Phone Farm A8 Plus",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-a8+.png",
     "Ram": "6GB",
     "Rom": "64GB",
@@ -97,7 +97,7 @@
 },
 {
     "ID": 9,
-    "Title": "Box Phone Farm J7+",
+    "Title": "Box Phone Farm J7 Plus",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-j7%20plus.png",
     "Ram": "4GB",
     "Rom": "32GB",
@@ -169,7 +169,7 @@
 },
 {
     "ID": 15,
-    "Title": "Box Phone Farm S8(U)",
+    "Title": "Box Phone Farm S8 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s8.png",
     "Ram": "4GB",
     "Rom": "64GB",
@@ -178,18 +178,6 @@
     "PriceFor10": 6300000,
     "PriceFor15": 8700000,
     "PriceFor20": 11000000
-},
-{
-    "ID": 36,
-    "Title": "Box Phone Farm S9(U)",
-    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s9.png",
-    "Ram": "4GB",
-    "Rom": "64GB",
-    "Cpu": "Snapdragon 845",
-    "PriceFor5": 4900000,
-    "PriceFor10": 8300000,
-    "PriceFor15": 11700000,
-    "PriceFor20": 15000000
 },
 {
     "ID": 16,
@@ -229,7 +217,7 @@
 },
 {
     "ID": 19,
-    "Title": "Box Phone Farm S10(U)",
+    "Title": "Box Phone Farm S10 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s10.png",
     "Ram": "8GB",
     "Rom": "128GB",
@@ -325,7 +313,7 @@
 },
 {
     "ID": 27,
-    "Title": "Box Phone Farm Note 8(U)",
+    "Title": "Box Phone Farm Note 8 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note8.png",
     "Ram": "6GB",
     "Rom": "64GB",
@@ -349,7 +337,7 @@
 },
 {
     "ID": 29,
-    "Title": "Box Phone Farm Note 10(U)",
+    "Title": "Box Phone Farm Note 10 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note10%20(1).png",
     "Ram": "8GB",
     "Rom": "256GB",
@@ -373,7 +361,7 @@
 },
 {
     "ID": 31,
-    "Title": "Box Phone Farm Note 10+",
+    "Title": "Box Phone Farm Note 10 Plus",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note10%20(1).png",
     "Ram": "12GB",
     "Rom": "256GB",
@@ -433,7 +421,7 @@
 },
 {
     "ID": 36,
-    "Title": "Box Phone Farm S9(U)",
+    "Title": "Box Phone Farm S9 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s9.png",
     "Ram": "4GB",
     "Rom": "64GB",
@@ -442,5 +430,17 @@
     "PriceFor10": 8300000,
     "PriceFor15": 11700000,
     "PriceFor20": 15000000
+},
+{
+    "ID": 37,
+    "Title": "Box Phone Farm Note 10 5G",
+    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note10%20(1).png",
+    "Ram": "12GB",
+    "Rom": "256GB",
+    "Cpu": "Exynos 9825",
+    "PriceFor5": 6900000,
+    "PriceFor10": 12300000,
+    "PriceFor15": 17700000,
+    "PriceFor20": 23000000
 }
     ]
