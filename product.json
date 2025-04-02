@@ -253,6 +253,17 @@
     "PriceFor20": 9000000
   },
   {
+    "Title": "Box Phone Farm S8",
+    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s8.png",
+    "Ram": "4GB",
+    "Rom": "64GB",
+    "Cpu": "Exynos 8895",
+    "PriceFor5": 4630000,
+    "PriceFor10": 7800000,
+    "PriceFor15": 10900000,
+    "PriceFor20": 14000000
+  },
+  {
     "Title": "Box Phone Farm S8 (U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s8.png",
     "Ram": "4GB",
@@ -264,7 +275,7 @@
     "PriceFor20": 11000000
   },
   {
-    "Title": "Box Phone Farm S8/S8+",
+    "Title": "Box Phone Farm S8+",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-s8.png",
     "Ram": "4GB",
     "Rom": "64GB",
@@ -374,7 +385,7 @@
     "PriceFor20": 24000000
   },
   {
-    "Title": "Box Phone Farm S20/S20+",
+    "Title": "Box Phone Farm S20",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note20.png",
     "Ram": "8GB",
     "Rom": "128GB",
@@ -385,7 +396,29 @@
     "PriceFor20": 41000000
   },
   {
-    "Title": "Box Phone Farm S20/S20+(U)",
+    "Title": "Box Phone Farm S20(U)",
+    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note20.png",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Snapdragon 865",
+    "PriceFor5": 8400000,
+    "PriceFor10": 15300000,
+    "PriceFor15": 22200000,
+    "PriceFor20": 29000000
+  },
+  {
+    "Title": "Box Phone Farm S20+",
+    "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note20.png",
+    "Ram": "8GB",
+    "Rom": "128GB",
+    "Cpu": "Exynos 990",
+    "PriceFor5": 11500000,
+    "PriceFor10": 21300000,
+    "PriceFor15": 31200000,
+    "PriceFor20": 41000000
+  },
+  {
+    "Title": "Box Phone Farm S20+(U)",
     "ImageUrl": "https://bestmoon.vn/assets/img/box/box-phone-farm-note20.png",
     "Ram": "8GB",
     "Rom": "128GB",
